@@ -19,11 +19,11 @@ Torch 1.13.1
 
 ## BibTex
 Please cite our paper if you find it helpful :)
-'''
+```
 @article{long2023discuss,
   title={Discuss before moving: Visual language navigation via multi-expert discussions},
   author={Long, Yuxing and Li, Xiaoqi and Cai, Wenzhe and Dong, Hao},
   journal={arXiv preprint arXiv:2309.11382},
   year={2023}
 }
-'''
+```
