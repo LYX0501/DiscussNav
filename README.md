@@ -9,4 +9,9 @@ Python 3.8.17
 
 Torch 1.13.1
 
-[Recognize Anything](https://github.com/xinyu1205/recognize-anything)(RAM)
+[Matterport3DSimulator](https://github.com/xinyu1205/recognize-anything)
+
+[Recognize Anything](https://github.com/xinyu1205/recognize-anything) (RAM)
+
+[InsturctBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
+
