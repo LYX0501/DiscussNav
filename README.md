@@ -1,7 +1,8 @@
 # DiscussNav
 
-Visual language navigation (VLN) is an embodied task demanding a wide range of skills encompassing understanding, perception, and planning. For such a multifaceted challenge, previous VLN methods totally rely on one model's own thinking to make predictions within one round. However, existing models, even the most advanced large language model GPT4, still struggle with dealing with multiple tasks by single-round self-thinking. 
+In this work, we introduce a novel zero-shot VLN framework. Within this framework, large models possessing distinct abilities are served as domain experts. Our proposed navigation agent, namely DiscussNav, can actively discuss with these experts to collect essential information before moving at every step. These discussions cover critical navigation subtasks like instruction understanding, environment perception, and completion estimation. The performances on the representative VLN task R2R show that our method surpasses the leading zero-shot VLN model by a large margin on all metrics.
 
-In this work, drawing inspiration from the expert consultation meeting, we introduce a novel zero-shot VLN framework. Within this framework, large models possessing distinct abilities are served as domain experts. Our proposed navigation agent, namely DiscussNav, can actively discuss with these experts to collect essential information before moving at every step. These discussions cover critical navigation subtasks like instruction understanding, environment perception, and completion estimation. 
-
-Through comprehensive experiments, we demonstrate that discussions with domain experts can effectively facilitate navigation by perceiving instruction-relevant information, correcting inadvertent errors, and sifting through in-consistent movement decisions. The performances on the representative VLN task R2R show that our method surpasses the leading zero-shot VLN model by a large margin on all metrics. Additionally, real-robot experiments display the obvious advantages of our method over single-round self-thinking.
+## Environment 
+Ubuntu 18.04.6 LTS
+Python 3.8.17
+Torch 1.13.1
