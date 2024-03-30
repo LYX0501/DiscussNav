@@ -4,5 +4,9 @@ In this work, we introduce a novel zero-shot VLN framework. Within this framewor
 
 ## Environment 
 Ubuntu 18.04.6 LTS
+
 Python 3.8.17
+
 Torch 1.13.1
+
+[Recognize Anything](https://github.com/xinyu1205/recognize-anything)(RAM)
