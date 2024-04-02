@@ -17,8 +17,13 @@ Torch 1.13.1
 
 [InsturctBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
 
-## Code
-```python DiscussNav.py```
+## R2R Data
+We have prepared R2R Val Unseen data in the tasks/data directory.
+
+## Run DiscussNav
+```
+python DiscussNav.py
+```
 
 ## BibTex
 Please cite our paper if you find it helpful :)
