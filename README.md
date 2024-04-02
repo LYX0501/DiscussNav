@@ -18,7 +18,7 @@ Torch 1.13.1
 [InsturctBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
 
 ## Code
-Coming Soon
+```python DiscussNav.py```
 
 ## BibTex
 Please cite our paper if you find it helpful :)
